@@ -1,0 +1,8 @@
+# incomplete
+flask
+flask-sqlalchemy
+flask-migrate
+flask-login
+flask-mail
+pyjwt
+python-dotenv

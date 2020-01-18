@@ -6,3 +6,5 @@ flask-login
 flask-mail
 pyjwt
 python-dotenv
+virtualenv
+boto3
